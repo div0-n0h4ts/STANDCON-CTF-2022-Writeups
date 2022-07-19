@@ -64,3 +64,7 @@ This lab is based on the GitBleed CVE (CVE-2022-24975).
 ### Flag
 
 STANDCON22{bl33d!ng_g!t_r3p0_!s_4_tr34sur3_tr0v3}
+
+
+# Other Writeups
+- https://dame-dango.github.io/STANDCON2022/Maze%20Repo/

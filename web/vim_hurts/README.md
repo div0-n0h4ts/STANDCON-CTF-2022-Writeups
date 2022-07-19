@@ -75,3 +75,6 @@ Retrieve the flag:
 
 ## Flag
 STANDCON22{v!m_swp_f!l3s_c4n_s3rv3_4tt3ck3rs}
+
+# Other Writeups
+- https://dame-dango.github.io/STANDCON2022/Vim%20Hurts/

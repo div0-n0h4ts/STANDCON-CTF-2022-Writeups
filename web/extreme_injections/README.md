@@ -102,3 +102,7 @@ Yes it did! And we got the flag too!!
 
 ## Flag
 STANDCON22{sql!t3_!nj3ct!0n5_4_th3_w!n}
+
+
+# Other Writeups
+- https://dame-dango.github.io/STANDCON2022/Extreme%20Injections/
