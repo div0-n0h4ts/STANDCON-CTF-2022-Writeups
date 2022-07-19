@@ -3,7 +3,7 @@
 Writeups or solutions for STANDCON CTF 2022
 
 | Challenge Name                                                        | Difficulty | Category            | Author       |
-|---------------------------------------------------------------------------|--------|---------------------|--------------|---------------|
+|---------------------------------------------------------------------------|--------|---------------------|--------------|
 | Random fish swam through                                                  | Medium | Cryptography        | Chun Yu      |
 | epikfishies are the greatest fishies can you name them all the anime 2k22 | Medium | Pwn                 | Daryl        |
 | Gift from Russia                                                          | Easy   | Programming         | Edwin        |
