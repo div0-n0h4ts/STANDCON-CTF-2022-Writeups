@@ -24,5 +24,5 @@ In this challenge, you are guranteed to have all the information required availa
 To prevent brute-forcing of the flag, you are limited to 15 attempts. Use them wisely.
 This OSINT Challenge does not require contact with any third-party. Do not attempt to email, call or make contact with any individual. If you have queries, open a ticket.
 
-Hint 1 is intended to help participants who do not know what they are looking for on the Instagram Account.
-Hint 2 is intended to help participants who have obtained a piece of valuable information and need help making the final lap. This hint is intentionally costly, and you should not purchase it unless you are absolutely sure you have secured a crucial piece of information.
+# Community Writeups
+- https://github.com/lopmade/STANDCON2022/tree/main/OSINT/I%20Sea%20You%20(Part%203)

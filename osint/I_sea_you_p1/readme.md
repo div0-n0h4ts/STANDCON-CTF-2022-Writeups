@@ -15,4 +15,5 @@ Hint 3 will only be useful to you if you have made some but very minimal progres
 
 Your Mission: Intercept the message and make contact with the double-agent
 
-(unfortunately the official walkthrough for this contained some personal data so we are unable to share it. You'll have to find a community writeup for this one :'))
+# Community Writeups
+- https://github.com/Kair0s3/Rightup/blob/main/2022/Jun/Standcon/writeup.md#i-sea-you-part-1
