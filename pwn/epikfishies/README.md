@@ -22,6 +22,8 @@ Vulnerable code can be found here:
 When you win, it closes the socket but does not return the function, therefore causes an error.
 Do the whole JNDI lookup thingy and point to your own custom LDAP server. Read environment variable `FLAG` for the flag :)
 
+You can start your own custom LDAP server using `docker run --rm -p1389:1389 --name openldap bitnami/openldap:latest` and start an ngrok if you do not wish to port forward
+
 ## Flag
 
 `STANDCON22{i_l1ek_fe5h_c0s_th3y_5wim_n_t45+3_n1(3}`

